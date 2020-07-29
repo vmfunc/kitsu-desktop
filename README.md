@@ -1,5 +1,7 @@
 ![Version](https://img.shields.io/badge/Version-V1.0-orange)
-![GitHub stars](https://img.shields.io/github/stars/Geshii/kitsu-desktop?color=blueviolet&label=Star%20me%20%3F)   
+![GitHub stars](https://img.shields.io/github/stars/Geshii/kitsu-desktop?color=blueviolet&label=Star%20me%20%3F)
+![Maintenance](https://img.shields.io/maintenance/yes/2020?color=yellow)
+![Discord](https://img.shields.io/discord/736973373200007188?label=Chat%20w%2F%20us%20%21)             
 ![Kitsu Desktop](images/kitsudesktop.png)
   
 ## What is Kitsu Desktop ?
