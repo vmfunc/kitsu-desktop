@@ -19,7 +19,7 @@ You can launch the app with `npm start` or using the <ins>Electron binairies</in
                           
 ## Want to help ?                   
 You made an improvement ? Have suggestions ?         
-Come with us on __Discord__ : [click here](https://discord.geshii.moe) (Maintenance ! Link is down, please send me a mail to access the server)           
+Come with us on __Discord__ : [click here](https://chat.geshii.moe) (Maintenance ! Link is down, please send me a mail to access the server)           
 Send me a mail at : <ins>ohayo@geshii.moe</ins>              
 Do some PRs ! I love seeing some code suggestions and improvements !      
                      
