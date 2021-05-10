@@ -1,3 +1,10 @@
+## THIS PROJECT IS DISCONTINUED 
+Thanks to everyone who supported the project, but since I'm now the only one who works on it (syslambda left a few months ago), and I'm currently working on bigger projects I don't have the time, the motivation and the inspiration to continue this. If someone wants to work using kitsu-desktop for another open-source project, please @ me in the repo, or dm me on Twitter. See y'all later
+
+- Geshi
+
+
+
 ![Version](https://img.shields.io/badge/Version-V1.0-orange)
 ![GitHub stars](https://img.shields.io/github/stars/Geshii/kitsu-desktop?color=blueviolet&label=Star%20me%20%3F)
 ![Maintenance](https://img.shields.io/maintenance/yes/2020?color=yellow)
